@@ -1,6 +1,6 @@
 # Hi there 👋 This is Yvonne :light_blue_heart: 
 
-Data & Systems Engineer  
+Data Scientist | Web3 Developer
 MSc Business Analytics @ University of Edinburgh
 
 I build data systems, machine learning applications, and blockchain infrastructure.
