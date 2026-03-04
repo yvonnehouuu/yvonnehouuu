@@ -4,7 +4,6 @@ AI & Data | Blockchain Developer
 
 MSc Business Analytics @ University of Edinburgh
 
-I build data systems, machine learning applications, and blockchain infrastructure.
 
 ## Technical Skills
 
