@@ -1,6 +1,6 @@
 # Hi there 👋 This is Yvonne :light_blue_heart: 
 
-Data & Machine Learning | Blockchain Developer 
+AI & Data | Blockchain Developer 
 
 MSc Business Analytics @ University of Edinburgh
 
