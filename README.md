@@ -1,5 +1,34 @@
 # Hi there 👋 This is Yvonne :light_blue_heart: 
 
+Data & Systems Engineer  
+MSc Business Analytics @ University of Edinburgh
+
+I build data systems, machine learning applications, and blockchain infrastructure.
+
+## Technical Skills
+
+Python • Rust • SQL • Machine Learning • Data Analytics  
+Solana • Smart Contracts • Web3 Infrastructure
+
+## Selected Projects
+
+### Solana Smart Contract Applications
+Rust-based smart contracts and full-stack blockchain services.
+
+Technologies:
+Rust • Solana • Web3 SDK
+
+### Traffic Incident Prediction
+Machine learning model predicting travel time disruption.
+
+Technologies:
+Python • Random Forest • Data Analysis
+
+## Links
+
+LinkedIn  
+https://linkedin.com/in/yvonnehouuu
+
 <!--
 **yvonnehouuu/yvonnehouuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
