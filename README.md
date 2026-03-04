@@ -13,6 +13,12 @@ I build AI applications, data-driven systems, and blockchain infrastructure.
 Python • Rust • SQL • Machine Learning • Data Analytics  
 Solana • Smart Contracts • Web3 Infrastructure
 
+<p>
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=yvonnehouuu&layout=compact&theme=default">
+</p>
+
+Well, actually, I mostly use Python as my programming language...
+
 ## Selected Projects
 
 ### Solana Smart Contract Applications
@@ -41,12 +47,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yvonnehouuu&" alt="yvonnehouuu" /></p>-->
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvonnehouuu&show_icons=true&locale=en&layout=compact" alt="yvonnehouuu" /></p>
-
-**Well, actually, I mostly use Python as my programming language...**
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvonnehouuu&label=Profile%20views&color=0e75b6&style=flat-square" alt="yvonnehouuu" /> </p>
-
