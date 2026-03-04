@@ -4,6 +4,9 @@ AI & Data | Blockchain Developer
 
 MSc Business Analytics @ University of Edinburgh
 
+</br>
+I build AI applications, data-driven systems, and blockchain infrastructure.
+
 
 ## Technical Skills
 
@@ -18,11 +21,6 @@ Rust-based smart contracts and full-stack blockchain services.
 Technologies:
 Rust • Solana • Web3 SDK
 
-### Traffic Incident Prediction
-Machine learning model predicting travel time disruption.
-
-Technologies:
-Python • Random Forest • Data Analysis
 
 ## Links
 
