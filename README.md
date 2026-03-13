@@ -17,7 +17,6 @@ Solana • Smart Contracts • Web3 Infrastructure
 <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=yvonnehouuu&layout=compact&theme=default">
 </p>
 
-Well, actually, I mostly use Python as my programming language...
 
 ## Selected Projects
 
